@@ -1,0 +1,25 @@
+{
+  "name": "imageprocessing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-SeaCow/CSGOSpreadSheet.git"
+  },
+  "author": "Matthew Van Vleet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-SeaCow/CSGOSpreadSheet/issues"
+  },
+  "homepage": "https://github.com/Mr-SeaCow/CSGOSpreadSheet#readme",
+  "dependencies": {
+    "canvas": "^2.5.0",
+    "convert-svg-to-png": "^0.5.0",
+    "fs": "0.0.1-security",
+    "jpeg-js": "^0.3.5"
+  }
+}
